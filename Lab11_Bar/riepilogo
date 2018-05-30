@@ -1,0 +1,11 @@
+arriva gruppo di persone 
+
+numero di persone
+
+scelgo tavolo 
+
+se tavolo disponibile faccio sedere 
+
+se non disponibile 
+- se tolleranza > 0.5 bancone 
+- altrimenti insoddisfatto 
